@@ -72,7 +72,7 @@
         "browser-sync": "^2.18.13",
         "elasticlunr": "0.9.5",
         "fuse.js": "^3.2.0",
-        "webpack": "2.5.1",
+        "webpack": "5.94.0",
         "gulp-webpack": "^1.5.0",
         "es6-promise": "^3.2.1",
         "gulp": "^4.0.2",
